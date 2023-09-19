@@ -11,4 +11,4 @@ The database is structured as follows:
 
 ### Submission
 
-Edit the jupuyter notebook cells and enter your `sql` code within.
+Edit the jupyter notebook cells and enter your `sql` code within.
